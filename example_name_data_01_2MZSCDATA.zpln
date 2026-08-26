@@ -4,7 +4,7 @@
       "title": "",
       "text": "",
       "user": "anonymous",
-      "dateUpdated": "2026-08-26 09:53:13.804",
+      "dateUpdated": "2026-08-26 10:41:58.257",
       "progress": 0,
       "config": {
         "lineNumbers": true
@@ -16,9 +16,9 @@
       "apps": [],
       "runtimeInfos": {},
       "progressUpdateIntervalMs": 2000,
-      "jobName": "paragraph_1787712793804_1665204468",
+      "jobName": "paragraph_1787715718257_363324256",
       "id": "paragraph_1787560942043_1196661317",
-      "dateCreated": "2026-08-26 09:53:13.804",
+      "dateCreated": "2026-08-26 10:41:58.257",
       "status": "READY"
     }
   ],
@@ -35,9 +35,7 @@
   },
   "info": {
     "tags": [
-      "Replace existing",
-      "v4.6.15",
-      "Notebook"
+      "local\u0026git"
     ]
   }
 }
