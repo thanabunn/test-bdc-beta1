@@ -2,38 +2,9 @@
   "paragraphs": [
     {
       "title": "",
-      "text": "before Replace Generate new id",
+      "text": "",
       "user": "anonymous",
-      "dateUpdated": "2026-08-25 17:22:38.580",
-      "progress": 0,
-      "config": {
-        "lineNumbers": true,
-        "colWidth": 12.0,
-        "fontSize": 9.0,
-        "enabled": true,
-        "results": {},
-        "editorSetting": {
-          "language": "scala",
-          "editOnDblClick": false,
-          "completionKey": "TAB",
-          "completionSupport": true
-        },
-        "editorMode": "ace/mode/scala"
-      },
-      "settings": {
-        "params": {},
-        "forms": {}
-      },
-      "apps": [],
-      "runtimeInfos": {},
-      "progressUpdateIntervalMs": 2000,
-      "jobName": "paragraph_1787641329627_1390239988",
-      "id": "paragraph_1787560942043_1196661317",
-      "dateCreated": "2026-08-25 14:02:09.627",
-      "status": "READY"
-    },
-    {
-      "user": "anonymous",
+      "dateUpdated": "2026-08-26 09:53:13.804",
       "progress": 0,
       "config": {
         "lineNumbers": true
@@ -45,9 +16,9 @@
       "apps": [],
       "runtimeInfos": {},
       "progressUpdateIntervalMs": 2000,
-      "jobName": "paragraph_1787653358677_537114254",
-      "id": "paragraph_1787653358677_537114254",
-      "dateCreated": "2026-08-25 17:22:38.677",
+      "jobName": "paragraph_1787712793804_1665204468",
+      "id": "paragraph_1787560942043_1196661317",
+      "dateCreated": "2026-08-26 09:53:13.804",
       "status": "READY"
     }
   ],
@@ -55,7 +26,7 @@
   "id": "2MZSCDATA",
   "defaultInterpreterGroup": "spark",
   "version": "4.6.14",
-  "lastUpdatedAt": "2026-08-25 17:22:38.677",
+  "lastUpdatedAt": "2026-08-26 09:51:18.761",
   "noteParams": {},
   "noteForms": {},
   "angularObjects": {},
@@ -64,7 +35,9 @@
   },
   "info": {
     "tags": [
-      "Replace existing"
+      "Replace existing",
+      "v4.6.15",
+      "Notebook"
     ]
   }
 }
