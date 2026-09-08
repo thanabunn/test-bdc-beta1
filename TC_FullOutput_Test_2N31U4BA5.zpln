@@ -1,10 +1,10 @@
 {
   "paragraphs": [
     {
-      "title": "T",
-      "text": "%pyspark\n",
+      "title": "Test",
+      "text": "%pyspark\nprint(1234)\n",
       "user": "anonymous",
-      "dateUpdated": "2026-09-01 11:21:21.015",
+      "dateUpdated": "2026-09-01 17:43:57.663",
       "progress": 0,
       "config": {
         "lineNumbers": true,
@@ -17,7 +17,7 @@
         "colWidth": 12.0,
         "editorMode": "ace/mode/python",
         "fontSize": 9.0,
-        "title": true,
+        "title": false,
         "results": {},
         "enabled": true
       },
@@ -2691,7 +2691,7 @@
   "id": "2N31U4BA5",
   "defaultInterpreterGroup": "spark",
   "version": "4.6.14",
-  "lastUpdatedAt": "2026-09-01 11:23:47.825",
+  "lastUpdatedAt": "2026-09-01 17:43:57.663",
   "noteParams": {},
   "noteForms": {},
   "angularObjects": {},
