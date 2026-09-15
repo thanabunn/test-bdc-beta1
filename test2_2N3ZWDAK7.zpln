@@ -4,7 +4,7 @@
       "title": "",
       "text": "%sql\nshow tables tested",
       "user": "anonymous",
-      "dateUpdated": "2026-09-10 13:31:46.363",
+      "dateUpdated": "2026-09-09 13:31:46.363",
       "progress": 0,
       "config": {
         "lineNumbers": true,
