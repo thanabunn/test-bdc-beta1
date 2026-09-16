@@ -32,10 +32,23 @@
       "status": "READY"
     },
     {
+      "text": "zxczxcz",
       "user": "anonymous",
+      "dateUpdated": "2026-09-16 14:33:54.657",
       "progress": 0,
       "config": {
-        "lineNumbers": true
+        "lineNumbers": true,
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
       },
       "settings": {
         "params": {},
@@ -50,10 +63,23 @@
       "status": "READY"
     },
     {
+      "text": "zxczxc",
       "user": "anonymous",
+      "dateUpdated": "2026-09-16 14:33:55.970",
       "progress": 0,
       "config": {
-        "lineNumbers": true
+        "lineNumbers": true,
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
       },
       "settings": {
         "params": {},
@@ -68,10 +94,23 @@
       "status": "READY"
     },
     {
+      "text": "zxcxz",
       "user": "anonymous",
+      "dateUpdated": "2026-09-16 14:33:56.737",
       "progress": 0,
       "config": {
-        "lineNumbers": true
+        "lineNumbers": true,
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
       },
       "settings": {
         "params": {},
@@ -86,10 +125,23 @@
       "status": "READY"
     },
     {
+      "text": "zcxxz",
       "user": "anonymous",
+      "dateUpdated": "2026-09-16 14:33:57.846",
       "progress": 0,
       "config": {
-        "lineNumbers": true
+        "lineNumbers": true,
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
       },
       "settings": {
         "params": {},
@@ -108,7 +160,7 @@
   "id": "2MZUJ5HX5",
   "defaultInterpreterGroup": "spark",
   "version": "4.6.14",
-  "lastUpdatedAt": "2026-09-16 13:52:46.601",
+  "lastUpdatedAt": "2026-09-16 14:33:57.846",
   "noteParams": {},
   "noteForms": {},
   "angularObjects": {},
