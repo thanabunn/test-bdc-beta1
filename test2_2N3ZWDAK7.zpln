@@ -2,9 +2,9 @@
   "paragraphs": [
     {
       "title": "",
-      "text": "%sql\nshow tables tested sdsdfdf",
+      "text": "%sql\nshow tables tested sdsdfdfzxcxzczczc",
       "user": "anonymous",
-      "dateUpdated": "2026-09-16 12:17:40.656",
+      "dateUpdated": "2026-09-17 17:41:49.105",
       "progress": 0,
       "config": {
         "lineNumbers": true,
@@ -27,21 +27,21 @@
                 "table": {
                   "tableGridState": {},
                   "tableColumnTypeState": {
+                    "updated": false,
                     "names": {
                       "namespace": "string",
                       "tableName": "string",
                       "isTemporary": "string"
-                    },
-                    "updated": false
-                  },
-                  "tableOptionSpecHash": "[{\"name\":\"useFilter\",\"valueType\":\"boolean\",\"defaultValue\":false,\"widget\":\"checkbox\",\"description\":\"Enable filter for columns\"},{\"name\":\"showPagination\",\"valueType\":\"boolean\",\"defaultValue\":false,\"widget\":\"checkbox\",\"description\":\"Enable pagination for better navigation\"},{\"name\":\"showAggregationFooter\",\"valueType\":\"boolean\",\"defaultValue\":false,\"widget\":\"checkbox\",\"description\":\"Enable a footer for displaying aggregated values\"}]",
-                  "tableOptionValue": {
-                    "useFilter": false,
-                    "showPagination": false,
-                    "showAggregationFooter": false
+                    }
                   },
                   "updated": false,
-                  "initialized": false
+                  "initialized": false,
+                  "tableOptionSpecHash": "[{\"name\":\"useFilter\",\"valueType\":\"boolean\",\"defaultValue\":false,\"widget\":\"checkbox\",\"description\":\"Enable filter for columns\"},{\"name\":\"showPagination\",\"valueType\":\"boolean\",\"defaultValue\":true,\"widget\":\"checkbox\",\"description\":\"Enable pagination for better navigation\"},{\"name\":\"showAggregationFooter\",\"valueType\":\"boolean\",\"defaultValue\":false,\"widget\":\"checkbox\",\"description\":\"Enable a footer for displaying aggregated values\"}]",
+                  "tableOptionValue": {
+                    "useFilter": false,
+                    "showPagination": true,
+                    "showAggregationFooter": false
+                  }
                 }
               },
               "commonSetting": {}
@@ -69,6 +69,26 @@
       "jobName": "paragraph_1789535860656_979316103",
       "id": "paragraph_1788926159536_1925433052",
       "dateCreated": "2026-09-16 12:17:40.656",
+      "status": "READY"
+    },
+    {
+      "text": "%sql\n",
+      "user": "anonymous",
+      "dateUpdated": "2026-09-17 17:41:49.204",
+      "progress": 0,
+      "config": {
+        "lineNumbers": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 2000,
+      "jobName": "paragraph_1789641709203_1116960071",
+      "id": "paragraph_1789641709203_1116960071",
+      "dateCreated": "2026-09-17 17:41:49.203",
       "status": "READY"
     },
     {
@@ -135,7 +155,7 @@
   "id": "2N3ZWDAK7",
   "defaultInterpreterGroup": "spark",
   "version": "4.6.14",
-  "lastUpdatedAt": "2026-09-16 12:17:40.657",
+  "lastUpdatedAt": "2026-09-17 17:41:49.204",
   "noteParams": {},
   "noteForms": {},
   "angularObjects": {},
