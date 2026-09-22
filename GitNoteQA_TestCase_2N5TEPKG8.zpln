@@ -1,0 +1,14 @@
+{
+  "paragraphs": [],
+  "name": "GitNoteQA_TestCase",
+  "id": "2N5TEPKG8",
+  "defaultInterpreterGroup": "spark",
+  "version": "4.7.1",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {},
+  "config": {
+    "isZeppelinNotebookCronEnable": true
+  },
+  "info": {}
+}
